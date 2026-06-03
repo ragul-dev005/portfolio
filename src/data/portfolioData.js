@@ -77,7 +77,7 @@ export const projects = [
     description:
       'A real-time weather app that shows current conditions and forecasts for any location.',
     stack: ["React", "JavaScript", "OpenWeather API"],
-    status: 'live',
+    status: 'Deployed',
     liveurl: 'https://weatherhub-dev.vercel.app/',
     github: 'https://github.com/ragul-dev005/weatherhub.git',
     
