@@ -73,13 +73,14 @@ export const experience = [
 
 export const projects = [
   {
-    title: 'Interactive Portfolio Interface',
+    title: 'WeatherHub',
     description:
-      'Building a smooth portfolio layout with animated sections, glassmorphism cards, and an immersive dark theme experience.',
-    stack: ['React.js', 'CSS', 'JavaScript'],
-    status: 'Coming Soon',
-    github: '#',
-    demo: '#',
+      'A real-time weather app that shows current conditions and forecasts for any location.',
+    stack: ["React", "JavaScript", "OpenWeather API"],
+    status: 'live',
+    liveurl: 'https://weatherhub-dev.vercel.app/',
+    github: 'https://github.com/ragul-dev005/weatherhub.git',
+    
   },
   {
     title: 'Cloud Tools Dashboard',
