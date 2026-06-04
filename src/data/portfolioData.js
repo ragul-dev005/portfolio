@@ -82,24 +82,24 @@ export const projects = [
     github: 'https://github.com/ragul-dev005/weatherhub.git',
     
   },
-  // {
-  //   title: 'Cloud Tools Dashboard',
-  //   description:
-  //     'Designing a lightweight dashboard for cloud-focused tools with responsive charts, user controls, and modular components.',
-  //   stack: ['React.js', 'HTML5', 'CSS3'],
-  //   status: 'In Progress',
-  //   github: '#',
-  //   demo: '#',
-  // },
-  // {
-  //   title: 'Sensor Automation Prototype',
-  //   description:
-  //     'Creating a visual interface to support sensor automation workflows, integrating hardware-inspired design with web interaction.',
-  //   stack: ['JavaScript', 'React.js', 'CSS'],
-  //   status: 'Coming Soon',
-  //   github: '#',
-  //   demo: '#',
-  // },
+  {
+    title: 'Cloud Tools Dashboard',
+    description:
+      'Designing a lightweight dashboard for cloud-focused tools with responsive charts, user controls, and modular components.',
+    stack: ['React.js', 'HTML5', 'CSS3'],
+    status: 'In Progress',
+    github: '#',
+    demo: '#',
+  },
+  {
+    title: 'Sensor Automation Prototype',
+    description:
+      'Creating a visual interface to support sensor automation workflows, integrating hardware-inspired design with web interaction.',
+    stack: ['JavaScript', 'React.js', 'CSS'],
+    status: 'Coming Soon',
+    github: '#',
+    demo: '#',
+  },
 ];
 
 export const certifications = [
